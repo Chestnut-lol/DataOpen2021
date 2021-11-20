@@ -1,0 +1,4 @@
+- AvgProdInTons: average production of tobacco in Location in Tons. This data is from 
+- AvgProdInUSD: average production of tobacco in Location in Million USD
+- DR_{age_group}: death rate for each age group. Death rates are measured as the number of early deaths due to smoking per 100,000 individuals. Taken as an average across data from 1990 to 2017
+- AvgSales: average sales of tobacco in Location, unit is amt. This data is from sales_per_day.
